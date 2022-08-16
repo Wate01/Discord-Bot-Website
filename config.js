@@ -26,7 +26,7 @@ const config = {
     {
       name: "Developer",
       description:
-        "Developer de todos los comandos de el 100% bde los comandos.",
+        "Developer de todos los comandos de el 100% de los comandos.",
       logo: <TbMessage2Code className="h-10 w-10" />,
     },
     {
@@ -54,12 +54,12 @@ const config = {
   ),
   //----------------------------------------------------------------
   // Your social handle links
-  githubLink: "https://github.com/mohitmimani",
+  githubLink: "https://github.com",
   twitterLink: "https://twitter.com",
   mediumLink: "https://medium.com/",
   facebookLink: "https://facebook.com",
-  discordLink: "https://discord.com",
-  youtubeLink: "https://www.youtube.com/channel/UCfhRHeex9lU0ZAVJot6Z2ZQ",
+  discordLink: "https://discord.gg/ZEgqE5d5jn",
+  youtubeLink: "https://www.youtube.com",
 };
 
 export default config;
